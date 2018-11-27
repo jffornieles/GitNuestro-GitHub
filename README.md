@@ -1,4 +1,4 @@
-**¿Qué comando utilizaste en el paso 11? ¿Por qué?** 
+**¿Qué comando utilizaste en el paso 11? ¿Por qué?**
 git reset --hard HEAD~1 para no mantener los cambios en la working copy
 
 **¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?**
