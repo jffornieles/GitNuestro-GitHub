@@ -30,11 +30,11 @@ git checkout -- git-nuestro.md
 git branch -D title 
 
 **¿Qué comando o comandos utilizaste en el paso 30?**
-git reset —hard <identificador del commit>
+git reset —hard "identificador del commit"
 
 **¿Qué comando o comandos usaste en el paso 32?** 
-git reset --hard <identificador del commit inicial>
+git reset --hard "identificador del commit inicial"
 
 **¿Qué comando o comandos usaste en el punto 33?**
-git reset —hard <identificador del commit>
+git reset —hard "identificador del commit"
 
